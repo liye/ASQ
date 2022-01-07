@@ -1,4 +1,11 @@
 # ASQ
+
+#### 2022/01/07 Update #### 
+
+To complement the binary choice format of the task in the original release (see below), we further consider a generative version of the task, as demo-ed in this [notebook](https://github.com/liye/ASQ/blob/generation/constructing_dataset_for_generative_ASQ.ipynb). 
+
+------
+
 Dataset of personal narratives with **A**dvice-**S**eeking **Q**uestions. Version 1.0.  
 
 Distributed together with the paper [Asking the Right Question: Inferring Advice-Seeking Intentions from Personal Narratives](http://www.cs.cornell.edu/~cristian/Advice-seeking_intentions.html). Liye Fu, Jonathan P. Chang and Cristian Danescu-Niculescu-Mizil. NAACL 2019. 
